@@ -35,7 +35,7 @@ This project contains the features below where users can:
         - `login.html` -  The page that show the login page for user to log in
         - `index.html` -  The homepage of the webpage, displays all the posts that users have published. Users can write a post on this page.
         - `following.html` -  The page that show all the posts by users whom the user is following
-        - `profile.html` -  The page that displays the number of followers and following and all the posts published by the user
+        - `profile.html` -  The page that displays all the posts published by the individual user and details such as the total number of posts published, number of followers and the number of users the user is following
    
     - `admin.py` -admin settings for model view
     - `models.py` contains the three models that I have used in the project- User, Post and Follow
